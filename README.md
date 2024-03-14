@@ -1,69 +1,42 @@
-<h1 align="center">Hi 👋! My name is ADARSH and I'm an AI learner, from India</h1>
+# Hi there, I'm Adarsh PS 👋
 
-###
+## About Me
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/214929/screenshots/4967879/ai-loader-opt.gif"  />
+I'm a passionate Data Scientist and Django Developer with a keen interest in leveraging data-driven insights to build impactful solutions. With a background in both data science and web development, I love to combine my analytical skills with my programming expertise to create innovative applications.
 
-###
+- 🔭 I’m currently working on: Enhancing my skills in machine learning algorithms and web development frameworks.
+- 🌱 I’m currently learning: Advanced data visualization techniques and Django REST framework.
+- 💬 Ask me about: Data analysis, machine learning, Django development, or anything related to tech!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adarsh-ps/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy hiking and exploring new trails in my free time!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+## Skills
 
-###
+- **Languages:** Python, SQL, JavaScript
+- **Data Science:** Machine Learning, Data Visualization, Statistical Analysis
+- **Web Development:** Django, HTML/CSS, JavaScript
+- **Tools & Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Django REST Framework
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## Projects
 
-###
+Here are a few projects I've worked on:
+
+1. **Customer Segmentation Using K-Means Clustering**
+   - Analyzed customer data and applied K-means clustering to identify distinct customer segments.
+   - Utilized Python and scikit-learn for data preprocessing and modeling.
+   - ![Customer Segmentation](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+
+2. **E-commerce Website with Django**
+   - Developed a fully functional e-commerce website using Django framework.
+   - Implemented features like user authentication, product management, and shopping cart functionality.
+   - ![E-commerce Website](https://media.giphy.com/media/26ufhXZCmYvbFAbJK/giphy.gif)
+
+3. **Sentiment Analysis on Twitter Data**
+   - Conducted sentiment analysis on Twitter data to understand public opinion on a specific topic.
+   - Used natural language processing techniques and Vader sentiment analysis library.
+   - ![Sentiment Analysis](https://media.giphy.com/media/l0HlRpa82e1ZzLHPK/giphy.gif)
+
+## Get in Touch
+
+I'm always open to collaboration and new opportunities. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/adarsh-ps/) to discuss projects, ideas, or just to say hello! Let's connect and create something amazing together. 😊
