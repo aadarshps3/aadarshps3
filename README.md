@@ -30,7 +30,7 @@ Here are a few projects I've worked on:
 2. **E-commerce Website with Django**
    - Developed a fully functional e-commerce website using the Django framework.
    - Implemented features like user authentication, product management, and shopping cart functionality.
-   - ![E-commerce Website](https://camo.githubusercontent.com/74c15d738e3928e0cb327eda5ebde82e3af97c1b526b398018427f69603c2308/68747470733a2f2f692e696d6775722e636f6d2f534c596a6e7a342e676966)
+   - ![E-commerce Website](https://docs.pixelstrap.com/viho/assets/images/apps/ecommerce.gif)
 
 3. **Sentiment Analysis on Twitter Data**
    - Conducted sentiment analysis on Twitter data to understand public opinion on a specific topic.
